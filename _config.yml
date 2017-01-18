@@ -14,20 +14,20 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Obermixnitz
+title: Mixnitz
 
 # Short description of your site
-description: Obermixnitz in Niederösterreich
+description: Obermixnitz und Untermixnitz in Niederösterreich
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  #About Me: "aboutme"
   Über uns:
     - Sportverein: "sportverein"
     - Kulturstadl: "kulturstadl"
-    - Feuerwehr: "feuerwehr"
+    - Feuerwehr: "/_pages/feuerwehr"
     - Kirche: "kirche"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -87,7 +87,7 @@ share-links-active:
   twitter: true
   facebook: true
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
