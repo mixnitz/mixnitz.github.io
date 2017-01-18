@@ -24,6 +24,11 @@ description: Obermixnitz in Niederösterreich
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Über uns:
+    - Sportverein: "sportverein"
+    - Kulturstadl: "kulturstadl"
+    - Feuerwehr: "feuerwehr"
+    - Kirche: "kirche"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
