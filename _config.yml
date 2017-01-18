@@ -178,34 +178,41 @@ prose:
       - name: "title"
         field:
           element: "text"
-          label: "Post title"
-          placeholder: "Title"
+          label: "Überschrift"
+          placeholder: "Titel"
           alterable: true
       - name: "subtitle"
         field:
           element: "textarea"
-          label: "Subtitle"
-          placeholder: "A description of your post."
+          label: "Untertitel"
+          placeholder: "Der Untertitel des Posts."
           alterable: true
       - name: "date"
         field:
           element: "text"
           label: "Date"
-          help: "Enter date of post."
+          help: "Überschreibe das Datum des Posts. Ansonsten wird das Datum aus dem Dateinamen extrahiert."
           placeholder: "yyyy-mm-dd"
           alterable: true
       - name: "image"
         field:
           element: "text"
           label: "Image"
-          help: "Add a thumbnail image to your post."
+          help: "Füge deinem Post ein Vorschaubild hinzu."
+          placeholder: "Thumbnail"
+          alterable: true
+      - name: "bigimg"
+        field:
+          element: "text"
+          label: "Big Image"
+          help: "Füge deinem Post einen Banner hinzu."
           placeholder: "Thumbnail"
           alterable: true
       - name: "published"
         field:
           element: "checkbox"
           label: "Publish"
-          help: "Check to publish post, uncheck to hide."
+          help: "Aktivieren um den Post zu veröffentlichen, deaktivieren um ihn zu verstecken."
 
 gems:
   - jekyll-paginate
