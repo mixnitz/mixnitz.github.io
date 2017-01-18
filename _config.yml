@@ -27,7 +27,7 @@ navbar-links:
   Über uns:
     - Sportverein: "sportverein"
     - Kulturstadl: "kulturstadl"
-    - Feuerwehr: "/_pages/feuerwehr"
+    - Feuerwehr: "feuerwehr"
     - Kirche: "kirche"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
