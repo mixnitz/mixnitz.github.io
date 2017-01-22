@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Kirche
+title: Pfarre
 subtitle: Kirche in Obermixnitz
+published: true
 ---
 
-Eine Seite über die Kirche in Obermixnitz
+Eine Seite über die Pfarre in Obermixnitz
