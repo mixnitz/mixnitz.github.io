@@ -24,8 +24,10 @@ description: Obermixnitz und Untermixnitz in Niederösterreich
 # List of links in the navigation bar
 navbar-links:
   #About Me: "aboutme"
+  Sportverein: "sportverein"
+    - Fußball: "usv_fussball"
+    - Tischtennis: "usv_tischtennis"
   Über uns:
-    - Sportverein: "sportverein"
     - Kulturstadl: "kulturstadl"
     - Feuerwehr: "feuerwehr"
     - Pfarre Obermixnitz: "kirche"
