@@ -26,6 +26,7 @@ navbar-links:
   #About Me: "aboutme"
   Sportverein:
     - Über uns: "sportverein"
+    - Termine: "usv_termine"
     - Fußball: "usv_fussball"
     - Tischtennis: "usv_tischtennis"
   Über uns:
