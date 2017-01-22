@@ -24,7 +24,8 @@ description: Obermixnitz und Untermixnitz in Niederösterreich
 # List of links in the navigation bar
 navbar-links:
   #About Me: "aboutme"
-  Sportverein: "sportverein"
+  Sportverein:
+    - Über uns: "sportverein"
     - Fußball: "usv_fussball"
     - Tischtennis: "usv_tischtennis"
   Über uns:
